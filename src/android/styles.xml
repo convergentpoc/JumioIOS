@@ -4,9 +4,9 @@
 
 <style parent="Theme.Netverify" name="CustomNetverifyTheme">
 
-<item name="colorPrimary">#fafafa</item>
+<item name="colorPrimary">@color/colorPrimary</item>
 
-<item name="colorPrimaryDark">#c8c8c8</item>
+<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
 
 <item name="colorAccent">@color/colorAccent</item>
 
