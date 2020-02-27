@@ -16,6 +16,7 @@
     <item name="netverify_scanOverlayLivenessInvalid">#D7BDE2</item>
     <item name="netverify_scanOverlayLivenessBackground">#3498DB</item>
     <item name="netverify_scanOverlayLivenessText">#C0392B</item>
+    <item name="netverify_scanOptionsLoadingBackground">#97BE0D</item>
   </style>
   <style parent="ThemeOverlay.AppCompat.Dark.ActionBar" name="AppTheme.AppBarOverlay">
     <item name="colorPrimary">#EB984E</item>
