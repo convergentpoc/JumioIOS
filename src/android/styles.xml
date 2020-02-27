@@ -3,7 +3,7 @@
   <style parent="Theme.Netverify" name="CustomNetverifyTheme">
     <item name="colorPrimary">#FAFAFA</item>
     <item name="colorPrimaryDark">#BFBFBF</item>
-    <item name="colorAccent">colorAccent</item>
+    <item name="colorAccent">@color/colorAccent</item>
     <item name="bam_scanOverlay">@color/colorAccent</item>
     <item name="bam_scanBackground">@color/jumio_black_alpha50</item>
     <item name="netverify_scanOverlay">@color/jumio_white_alpha40</item>
