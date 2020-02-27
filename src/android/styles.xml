@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <style parent="Theme.Netverify" name="CustomNetverifyTheme">
-    <item name="colorPrimary">#FAFAFA</item>
-    <item name="colorPrimaryDark">#BFBFBF</item>
-    <item name="colorAccent">@color/colorAccent</item>
-    <item name="bam_scanOverlay">@color/colorAccent</item>
-    <item name="bam_scanBackground">@color/jumio_black_alpha50</item>
-    <item name="netverify_scanOverlay">@color/jumio_white_alpha40</item>
-    <item name="netverify_scanBackground">@color/jumio_black_alpha50</item>
-    <item name="netverify_scanOverlayTemplateValid">@color/jumio_primary_dark</item>
-    <item name="netverify_scanOverlayTemplateInvalid">@color/jumio_grey200</item>
-    <item name="netverify_scanOverlayDetectedLine">@color/jumio_primary</item>
-    <item name="netverify_scanOverlayDetectedLineStroke">@color/jumio_white</item>
-    <item name="netverify_scanOverlayLivenessValid">@color/jumio_liveness_valid</item>
-    <item name="netverify_scanOverlayLivenessInvalid">@color/jumio_white_alpha40</item>
-    <item name="netverify_scanOverlayLivenessBackground">@color/jumio_black_alpha75</item>
-    <item name="netverify_scanOverlayLivenessText">@color/colorAccent</item>
+    <item name="colorPrimary">#DAF7A6</item>
+    <item name="colorPrimaryDark">#FFC300</item>
+    <item name="colorAccent">#FF5733</item>
+    <item name="bam_scanOverlay">#C70039</item>
+    <item name="bam_scanBackground">#900C3F</item>
+    <item name="netverify_scanOverlay">#581845</item>
+    <item name="netverify_scanBackground">#2874A6</item>
+    <item name="netverify_scanOverlayTemplateValid">#7F8C8D</item>
+    <item name="netverify_scanOverlayTemplateInvalid">#273746</item>
+    <item name="netverify_scanOverlayDetectedLine">#4A235A</item>
+    <item name="netverify_scanOverlayDetectedLineStroke">#F4D03F</item>
+    <item name="netverify_scanOverlayLivenessValid">#AF601A</item>
+    <item name="netverify_scanOverlayLivenessInvalid">#D7BDE2</item>
+    <item name="netverify_scanOverlayLivenessBackground">#3498DB</item>
+    <item name="netverify_scanOverlayLivenessText">#C0392B</item>
   </style>
   <style parent="ThemeOverlay.AppCompat.Dark.ActionBar" name="AppTheme.AppBarOverlay">
-    <item name="colorPrimary">@color/colorPrimary</item>
-    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-    <item name="colorAccent">@color/colorAccent</item>
+    <item name="colorPrimary">#EB984E</item>
+    <item name="colorPrimaryDark">#73C6B6</item>
+    <item name="colorAccent">#273746</item>
   </style>
 
   <style parent="ThemeOverlay.AppCompat.Light" name="AppTheme.PopupOverlay">
-    <item name="colorPrimary">@color/colorPrimary</item>
-    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-    <item name="colorAccent">@color/colorAccent</item>
+    <item name="colorPrimary">#7B7D7D</item>
+    <item name="colorPrimaryDark">#16A085</item>
+    <item name="colorAccent">#2980B9</item>
   </style>
 </resources>
