@@ -7,7 +7,7 @@
     <item name="bam_scanOverlay">#C70039</item>
     <item name="bam_scanBackground">#900C3F</item>
     <item name="netverify_scanOverlay">#581845</item>
-    <item name="netverify_scanBackground">#2874A6</item>
+    <item name="netverify_scanBackground">#000000</item> <!-- Possible scan bg -->
     <item name="netverify_scanOverlayTemplateValid">#7F8C8D</item>
     <item name="netverify_scanOverlayTemplateInvalid">#273746</item>
     <item name="netverify_scanOverlayDetectedLine">#4A235A</item>
@@ -16,7 +16,7 @@
     <item name="netverify_scanOverlayLivenessInvalid">#D7BDE2</item>
     <item name="netverify_scanOverlayLivenessBackground">#3498DB</item>
     <item name="netverify_scanOverlayLivenessText">#C0392B</item>
-    <item name="netverify_scanOptionsLoadingBackground">#FF8000</item> <!-- button color when capture is success -->
+    <item name="netverify_scanOptionsLoadingBackground">#FF8000</item> <!-- button color when capture is success / Loading bg-->
   </style>
   <style parent="ThemeOverlay.AppCompat.Dark.ActionBar" name="AppTheme.AppBarOverlay">
     <item name="colorPrimary">#EB984E</item>
