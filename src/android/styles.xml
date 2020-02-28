@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <style parent="Theme.Netverify" name="CustomNetverifyTheme">
-    <item name="colorPrimary">#DAF7A6</item>
-    <item name="colorPrimaryDark">#FFC300</item>
+    <item name="colorPrimary">#FAFAFA</item> <!-- Menu text with icon -->
+    <item name="colorPrimaryDark">#FAFAFA</item> <!-- Phone information bar -->
     <item name="colorAccent">#FF5733</item>
     <item name="bam_scanOverlay">#C70039</item>
     <item name="bam_scanBackground">#900C3F</item>
@@ -16,7 +16,7 @@
     <item name="netverify_scanOverlayLivenessInvalid">#D7BDE2</item>
     <item name="netverify_scanOverlayLivenessBackground">#3498DB</item>
     <item name="netverify_scanOverlayLivenessText">#C0392B</item>
-    <item name="netverify_scanOptionsLoadingBackground">#97BE0D</item>
+    <item name="netverify_scanOptionsLoadingBackground">#FF8000</item> <!-- button color when capture is success -->
   </style>
   <style parent="ThemeOverlay.AppCompat.Dark.ActionBar" name="AppTheme.AppBarOverlay">
     <item name="colorPrimary">#EB984E</item>
