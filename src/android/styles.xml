@@ -27,6 +27,6 @@
   <style parent="ThemeOverlay.AppCompat.Light" name="AppTheme.PopupOverlay">
     <item name="colorPrimary">#7B7D7D</item>
     <item name="colorPrimaryDark">#16A085</item>
-    <item name="colorAccent">#2980B9</item>
+    <item name="colorAccent">#000000</item>
   </style>
 </resources>
