@@ -29,6 +29,11 @@
     <item name="netverify_helpImage">#4a4a4a</item>
     <item name="netverify_helpInstructions">#4a4a4a</item> 
     
+    <item name="netverify_confirmationBackground">#fafafa</item>
+    <item name="netverify_confirmationHintStyle">@style/Custom.Netverify.Confirmation.Hint</item>
+    <item name="netverify_confirmationPositiveStyle">@style/Netverify.Confirmation.MaterialButton</item>
+    <item name="netverify_confirmationNegativeStyle">@style/Netverify.Confirmation.MaterialButton.Outlined</item>
+    
   </style>
   
   <!-- actionbar title color / text header color -->
