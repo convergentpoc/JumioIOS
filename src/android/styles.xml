@@ -26,6 +26,24 @@
   <style name="Jumio.Actionbar.Title" parent="ThemeOverlay.AppCompat"> 
     <item name="android:textColorPrimary">#4a4a4a</item>
   </style>
+
+ <!-- positive button theme (verification screen) -->
+
+ <style name="Netverify.Confirmation.MaterialButton" parent="Widget.MaterialComponents.Button">
+  <item name="android:textColor">#FFFFFF</item>
+  <item name="android:background">#ff8000</item>
+  <!-- For API Level 21+ -->
+  <item name="android:backgroundTint">#ff8000</item>
+ </style>
+
+ <!-- negative button theme (verification screen) -->
+
+ <style name="Netverify.Confirmation.MaterialButton.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+  <item name="android:textColor">#ff8000</item>
+  <item name="strokeColor">#ff8000</item>
+  <!-- For API Level 21+ -->
+  <item name="android:strokeColor">#ff8000</item>
+ </style>
   
   <style parent="ThemeOverlay.AppCompat.Dark.ActionBar" name="AppTheme.AppBarOverlay">
     <item name="colorPrimary">#EB984E</item> <!-- ORANGE HUE -->
