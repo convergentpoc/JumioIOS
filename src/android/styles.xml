@@ -10,12 +10,12 @@
     <item name="colorAccent">#FF5733</item> <!-- ORANGE HUE -->
     <item name="bam_scanOverlay">#C70039</item> <!-- RED HUE -->
     <item name="bam_scanBackground">#900C3F</item> <!-- RED VIOLET HUE -->
-    <item name="netverify_scanOverlay">#581845</item> <!-- PURPLE HUE -->
+    <item name="netverify_scanOverlay">#BFBFBF</item> <!-- PURPLE HUE -->
     <item name="netverify_scanBackground">#FAFAFA</item> <!-- Scan Background -->
-    <item name="netverify_scanOverlayTemplateValid">#7F8C8D</item> <!-- GRAY HUE -->
-    <item name="netverify_scanOverlayTemplateInvalid">#273746</item> <!-- DARK BLUE -->
+    <item name="netverify_scanOverlayTemplateValid">#FF8000</item> <!-- GRAY HUE -->
+    <item name="netverify_scanOverlayTemplateInvalid">#E83C18</item> <!-- DARK BLUE -->
     <item name="netverify_scanOverlayDetectedLine">#000000</item> <!-- Passport Scan Overlay Color  -->
-    <item name="netverify_scanOverlayDetectedLineStroke">#F4D03F</item> <!-- YELLOW HUE -->
+    <item name="netverify_scanOverlayDetectedLineStroke">#FF8000</item> <!-- YELLOW HUE -->
     <item name="netverify_scanOverlayLivenessValid">#FF8000</item> <!-- Valid face  -->
     <item name="netverify_scanOverlayLivenessInvalid">#E83C18</item> <!-- Invalid Face -->
     <item name="netverify_scanOverlayLivenessBackground">#FAFAFA</item> <!-- FACE DETECTION / Liveness -->
@@ -72,7 +72,7 @@
  <style name="Netverify.Confirmation.MaterialButton.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
     <item name="android:textColor">#ff8000</item>
     <item name="strokeColor">#FF8000</item>
-    <item name="android:textSize">24px</item>
+    <item name="android:textSize">32px</item>
   <!-- For API Level 21+ -->
     <item name="android:strokeColor">#ff8000</item>
  </style>
