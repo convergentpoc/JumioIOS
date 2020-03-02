@@ -27,10 +27,7 @@
     <item name="netverify_helpProgressString">#4a4a4a</item>
     <item name="netverify_helpTitle">#4a4a4a</item>
     <item name="netverify_helpImage">#4a4a4a</item>
-    <item name="netverify_helpSeperator">#FFFFFF</item>
     <item name="netverify_helpInstructions">#4a4a4a</item>
-    <item name="netverify_helpFallback">#fafafa</item>
-    <item name="netverify_helpFallbackText">#ff8000</item>
   
   <!-- actionbar title color -->
 
