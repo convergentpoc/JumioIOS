@@ -9,7 +9,7 @@
     <item name="bam_scanOverlay">#C70039</item>
     <item name="bam_scanBackground">#900C3F</item>
     <item name="netverify_scanOverlay">#581845</item>
-    <item name="netverify_scanBackground">#000000</item> <!-- Possible scan bg -->
+    <item name="netverify_scanBackground">#FAFAFA</item> <!-- Scan Background -->
     <item name="netverify_scanOverlayTemplateValid">#7F8C8D</item>
     <item name="netverify_scanOverlayTemplateInvalid">#273746</item>
     <item name="netverify_scanOverlayDetectedLine">#4A235A</item>
