@@ -16,10 +16,10 @@
     <item name="netverify_scanOverlayTemplateInvalid">#273746</item> <!-- DARK BLUE -->
     <item name="netverify_scanOverlayDetectedLine">#000000</item> <!-- Passport Scan Overlay Color  -->
     <item name="netverify_scanOverlayDetectedLineStroke">#F4D03F</item> <!-- YELLOW HUE -->
-    <item name="netverify_scanOverlayLivenessValid">#AF601A</item> <!-- DARK ORANGE HUE  -->
-    <item name="netverify_scanOverlayLivenessInvalid">#D7BDE2</item> <!-- LIGHT PURPLE HUE -->
+    <item name="netverify_scanOverlayLivenessValid">#FF8000</item> <!-- Valid face  -->
+    <item name="netverify_scanOverlayLivenessInvalid">#E83C18</item> <!-- Invalid Face -->
     <item name="netverify_scanOverlayLivenessBackground">#FAFAFA</item> <!-- FACE DETECTION / Liveness -->
-    <item name="netverify_scanOverlayLivenessText">#C0392B</item> <!-- RED HUE -->
+    <item name="netverify_scanOverlayLivenessText">#4A4A4A</item> 
     <item name="netverify_scanOptionsLoadingBackground">#FF8000</item> <!-- button color when capture is success / Loading bg-->
       <!-- scan instructions specific colors -->
   
@@ -34,6 +34,15 @@
     <item name="netverify_confirmationPositiveStyle">@style/Netverify.Confirmation.MaterialButton</item>
     <item name="netverify_confirmationNegativeStyle">@style/Netverify.Confirmation.MaterialButton.Outlined</item>
     
+    <!-- submission error (error screen) specific colors -->
+    <item name="netverify_submissionErrorStatusBar">#c8c8c8</item>
+    <item name="netverify_submissionErrorBackground">#fafafa</item>
+    <item name="netverify_submissionErrorTitle">#4a4a4a</item>
+    <item name="netverify_submissionErrorDescription">#4a4a4a</item>
+    <item name="netverify_submissionErrorSeperator">#4a4a4a</item>
+    <item name="netverify_submissionErrorImage">#ff8000</item>
+    <item name="netverify_submissionErrorButtonBackground">#FF8000</item>
+    <item name="netverify_submissionErrorButtonText">#ffffff</item>
   </style>
   
   <!-- actionbar title color / text header color -->
@@ -53,6 +62,7 @@
  <style name="Netverify.Confirmation.MaterialButton" parent="Widget.MaterialComponents.Button">
     <item name="android:textColor">#FFFFFF</item>
     <item name="android:background">#ff8000</item>
+    <item name="android:textSize">24px</item>
   <!-- For API Level 21+ -->
     <item name="android:backgroundTint">#ff8000</item>
  </style>
@@ -61,9 +71,10 @@
 
  <style name="Netverify.Confirmation.MaterialButton.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
     <item name="android:textColor">#ff8000</item>
-    <item name="strokeColor">#ff8000</item>
+    <item name="strokeColor">#FF8000</item>
+    <item name="android:textSize">24px</item>
   <!-- For API Level 21+ -->
-  <item name="android:strokeColor">#ff8000</item>
+    <item name="android:strokeColor">#ff8000</item>
  </style>
   
   <!-- Verification info theme (verification screen) -->
