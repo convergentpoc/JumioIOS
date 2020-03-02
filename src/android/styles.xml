@@ -43,6 +43,15 @@
     <item name="netverify_submissionErrorImage">#ff8000</item>
     <item name="netverify_submissionErrorButtonBackground">#FF8000</item>
     <item name="netverify_submissionErrorButtonText">#ffffff</item>
+    
+    <!-- submission success (success screen) specific colors -->
+
+    <item name="netverify_submissionProgressSuccessTitle">#4A4A4A</item>
+    <item name="netverify_submissionProgressSuccessDescription">#4A4A4A</item>
+    <item name="netverify_submissionProgressSuccessSeperator">#4A4A4A</item>
+    <item name="netverify_submissionProgressSuccessImage">#FF8000</item>
+    <item name="netverify_submissionProgressSuccessBackground">#FAFAFA</item>
+  
   </style>
   
   <!-- actionbar title color / text header color -->
