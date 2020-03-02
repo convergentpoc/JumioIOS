@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <style parent="Theme.Netverify" name="CustomNetverifyTheme">
+    <item name="colorControlNormal">#ff8000</item> <!-- Color of the action icons on the menu bar -->
     <item name="colorPrimary">#FAFAFA</item> <!-- Menu bar -->
     <item name="colorPrimaryDark">#FAFAFA</item> <!-- Phone information bar -->
     <item name="android:textColor">#000000</item> <!-- Font color in main screen -->
@@ -20,6 +21,12 @@
     <item name="netverify_scanOverlayLivenessText">#C0392B</item> <!-- RED HUE -->
     <item name="netverify_scanOptionsLoadingBackground">#FF8000</item> <!-- button color when capture is success / Loading bg-->
   </style>
+  
+  <!-- Change the color of the action bar title -->
+  <style name="Jumio.Actionbar.Title" parent="ThemeOverlay.AppCompat"> 
+    <item name="android:textColorPrimary">#4a4a4a</item>
+  </style>
+  
   <style parent="ThemeOverlay.AppCompat.Dark.ActionBar" name="AppTheme.AppBarOverlay">
     <item name="colorPrimary">#EB984E</item> <!-- ORANGE HUE -->
     <item name="colorPrimaryDark">#FF8000</item> <!-- ORANGE HUE previously #73C6B6 possible light button-->
