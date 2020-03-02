@@ -20,14 +20,15 @@
     <item name="netverify_scanOverlayLivenessBackground">#FAFAFA</item> <!-- FACE DETECTION / Liveness -->
     <item name="netverify_scanOverlayLivenessText">#C0392B</item> <!-- RED HUE -->
     <item name="netverify_scanOptionsLoadingBackground">#FF8000</item> <!-- button color when capture is success / Loading bg-->
-  </style>
-  <!-- scan instructions specific colors -->
+      <!-- scan instructions specific colors -->
   
     <item name="netverify_helpBackground">#FFFFFF</item>
     <item name="netverify_helpProgressString">#4a4a4a</item>
     <item name="netverify_helpTitle">#4a4a4a</item>
     <item name="netverify_helpImage">#4a4a4a</item>
     <item name="netverify_helpInstructions">#4a4a4a</item> 
+    
+  </style>
   
   <!-- actionbar title color -->
 
