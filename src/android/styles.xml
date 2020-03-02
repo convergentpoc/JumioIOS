@@ -13,7 +13,7 @@
     <item name="netverify_scanBackground">#FAFAFA</item> <!-- Scan Background -->
     <item name="netverify_scanOverlayTemplateValid">#7F8C8D</item> <!-- GRAY HUE -->
     <item name="netverify_scanOverlayTemplateInvalid">#273746</item> <!-- DARK BLUE -->
-    <item name="netverify_scanOverlayDetectedLine">#4A235A</item> <!-- PURPLE HUE  -->
+    <item name="netverify_scanOverlayDetectedLine">#000000</item> <!-- PURPLE HUE  -->
     <item name="netverify_scanOverlayDetectedLineStroke">#F4D03F</item> <!-- YELLOW HUE -->
     <item name="netverify_scanOverlayLivenessValid">#AF601A</item> <!-- DARK ORANGE HUE  -->
     <item name="netverify_scanOverlayLivenessInvalid">#D7BDE2</item> <!-- LIGHT PURPLE HUE -->
