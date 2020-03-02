@@ -21,6 +21,9 @@
     <item name="netverify_scanOverlayLivenessBackground">#FAFAFA</item> <!-- FACE DETECTION / Liveness -->
     <item name="netverify_scanOverlayLivenessText">#4A4A4A</item> 
     <item name="netverify_scanOptionsLoadingBackground">#FF8000</item> <!-- button color when capture is success / Loading bg-->
+    
+    <item name="face_scanOverlayOval">#FFFFFF</item>
+    <item name="face_scanOverlayProgress">#FF8000</item>
       <!-- scan instructions specific colors -->
   
     <item name="netverify_helpBackground">#FFFFFF</item>
