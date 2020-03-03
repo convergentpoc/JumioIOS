@@ -24,7 +24,7 @@
  
       <!-- scan instructions specific colors -->
   
-    <item name="netverify_helpBackground">#FFFFFF</item>
+    <item name="netverify_helpBackground">#FAFAFA</item>
     <item name="netverify_helpProgressString">#4a4a4a</item>
     <item name="netverify_helpTitle">#4a4a4a</item>
     <item name="netverify_helpImage">#4a4a4a</item>
@@ -71,7 +71,7 @@
 
  <style name="Netverify.Confirmation.MaterialButton" parent="Widget.MaterialComponents.Button">
     <item name="android:textColor">#FFFFFF</item>
-    <item name="android:background">#ff8000</item>
+    <item name="android:background">#ff8200</item>
     <item name="android:textSize">36px</item>
   <!-- For API Level 21+ -->
     <item name="android:backgroundTint">#ff8000</item>
