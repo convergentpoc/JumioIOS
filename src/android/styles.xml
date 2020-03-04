@@ -53,9 +53,6 @@
     <item name="netverify_submissionProgressSuccessImage">#FF8000</item>
     <item name="netverify_submissionProgressSuccessBackground">#FAFAFA</item>
   
-    <!-- 3d liveness specific colors -->
-    <item name="face_scanOverlayOval">#ff0000</item>
-    <item name="face_scanOverlayProgress">#FF8000</item>
   </style>
   
   <!-- actionbar title color / text header color -->
