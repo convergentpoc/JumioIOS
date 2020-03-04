@@ -10,7 +10,7 @@
     <item name="colorAccent">#FF8000</item> <!-- ORANGE HUE -->
     <item name="bam_scanOverlay">#C70039</item> <!-- RED HUE -->
     <item name="bam_scanBackground">#900C3F</item> <!-- RED VIOLET HUE -->
-    <item name="netverify_scanOverlay">#1AC7C7C7</item> <!-- PASSPORT Overlay 10% opacity -->
+    <item name="netverify_scanOverlay">#40C7C7C7</item> <!-- PASSPORT Overlay 25% opacity -->
     <item name="netverify_scanBackground">#B3C7C7C7</item> <!-- Scan Background CARD 70% opacity -->
     <item name="netverify_scanOverlayTemplateValid">#FF8000</item> <!-- GRAY HUE -->
     <item name="netverify_scanOverlayTemplateInvalid">#E83C18</item> 
