@@ -53,6 +53,9 @@
     <item name="netverify_submissionProgressSuccessImage">#FF8000</item>
     <item name="netverify_submissionProgressSuccessBackground">#FAFAFA</item>
   
+    <!-- 3d liveness specific colors -->
+    <item name="face_scanOverlayOval">#ff0000</item>
+    <item name="face_scanOverlayProgress">#FF8000</item>
   </style>
   
   <!-- actionbar title color / text header color -->
@@ -108,10 +111,5 @@
     <item name="colorAccent">#FF8000</item> <!-- possible circle progress -->
     <item name="android:textColor">#000000</item>
   </style>
-  
-  <style name="CustomAuthenticationTheme" parent="Theme.Authentication"> <!-- Customized progress circle -->
-    <item name="face_scanOverlayOval">#FFFFFF</item>
-    <item name="face_scanOverlayProgress">#FF8000</item>
- </style>
   
 </resources>
