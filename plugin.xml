@@ -54,7 +54,7 @@
     			<source url="https://github.com/CocoaPods/Specs.git" />
     		</config>
     		<pods use-frameworks="true">
-    			<pod name="JumioMobileSDK" tag="2.12.0" configurations="release,debug" />
+    			<pod name="JumioMobileSDK" tag="3.5.0" configurations="release,debug" />
     		</pods>
     	</podspec>
 
